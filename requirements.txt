@@ -1,0 +1,12 @@
+qdrant-client
+langchain
+langchain-community
+langchain-openai
+langchain-qdrant
+openai
+python-dotenv
+tiktoken
+llama_index
+llama-index-vector-stores-qdrant
+isort
+pycodestyle
