@@ -39,8 +39,8 @@ Python 3.9.17 was used during development, but the code should work with later v
 1. Clone the repository:
 
   ```bash
-  git clone https://gitlab.raftds.com/sophia.philippova/rag-openai-chatbot.git
-  cd gitlab-project-template
+  git clone https://github.com/sonymanetov/openai-agent-rag.git
+  cd openai-agent-rag
   ```
 
 
